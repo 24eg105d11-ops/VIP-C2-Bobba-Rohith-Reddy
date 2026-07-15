@@ -1,4 +1,4 @@
-# MediCareBook - Secure Doctor Appointments Web Application
+# CareNexus - Secure Doctor Appointments Web Application
 
 MediCareBook is a complete, full-stack appointment booking system designed to connect patients with doctors. The project is built using React on the frontend and Node.js/Express/MongoDB on the backend, adhering to a classic MVC (Model-View-Controller) design pattern.
 
